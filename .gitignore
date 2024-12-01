@@ -1,0 +1,4 @@
+!dataset/README.md
+dataset/*
+
+__pycache__
